@@ -1,0 +1,13 @@
+.линара
+{
+	width:500px;
+	height:500px;
+	background: pink;
+	color:black;
+	margin:50px 10px;
+	padding:50px;
+	font-size:32pt;
+	font-weight:bold;
+	border-radius:40px;
+	border:10px double black;
+}
